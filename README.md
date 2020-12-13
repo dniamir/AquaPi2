@@ -1,4 +1,4 @@
-# NFL-Statistics-Scrape
+# AquaPi Smart Aquarium
 A Raspberry Pi project that uses 3 features to monitor an aquarium:
 - Level sensor for determining water level
 - Waterproof temperature sensor for monitoring the aquarium temperature
