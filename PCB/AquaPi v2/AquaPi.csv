@@ -1,0 +1,11 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"U2";"M2022LL2W13";1;"M2022LL2W13";;;
+2;"U1";"QFN40P400X400X80-29N";1;"MAX11410ATI+";;;
+3;"R3,R2";"R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal";2;"1500";;;
+4;"R1";"R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal";1;"4700";;;
+5;"J5";"SWITCHCRAFT_35RAPC4BH3";1;"35RAPC4BH3";;;
+6;"J4,J2";"SolderWirePad_1x01_Drill2.5mm";2;"Conn_01x01_Female";;;
+7;"J3";"PinHeader_1x04_P2.54mm_Vertical";1;"Conn_01x04_Female";;;
+8;"J1";"PinHeader_2x20_P2.54mm_Vertical";1;"Raspberry_Pi_2_3";;;
+9;"C4,C3,C1";"CP_Radial_Tantal_D5.0mm_P5.00mm";3;"100nF";;;
+10;"C2";"CP_Radial_Tantal_D5.0mm_P5.00mm";1;"1nF";;;
